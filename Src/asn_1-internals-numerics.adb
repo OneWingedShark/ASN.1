@@ -67,18 +67,18 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
       (case X.Length is
 	   when 0 | 1  => True,
 	   when 2      => (X.Data(1) & X.Data(2)) < 2**63 or else
-                          (X.Negetive and then (X.Data(1) & X.Data(2)) = 2**63),
+                          (X.negative and then (X.Data(1) & X.Data(2)) = 2**63),
 	   when Others => False
       );
 
     function To_Big_Number (X : Long_Long_Integer) return Big_Number is
       (if X = 0 then Zero                               -- Zero.
        elsif X in -(2 ** 32 - 1) .. +(2 ** 32 - 1) then -- One word results.
-	   (Length => 1, Negetive => X < 0, Data => (1 => Digit(abs (X))))
+	   (Length => 1, Negative => X < 0, Data => (1 => Digit(abs (X))))
        elsif X = Long_Long_Integer'First then           -- Most negative number.
-	 (Length => 2, Negetive => True, Data => (1 => 2**31, 2 => 0))
+	 (Length => 2, Negative => True, Data => (1 => 2**31, 2 => 0))
        else                                             -- Normal two word case.
-	 (Length => 2, Negetive => X < 0,
+	 (Length => 2, Negative => X < 0,
             Data =>(2 => Digit(Abs(X) mod Base), 1 => Digit(Abs X / Base))
          )
       );
@@ -90,8 +90,8 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
        else
 	   (case X.Length is
             when 0 => 0,
-            when 1 => Long_Long_Integer( X.Data(1) * (if X.Negetive then -1 else 1) ),
-            when 2 => Long_Long_Integer((X.Data(1) & X.Data(2)) * (if X.Negetive then -1 else 1)),
+            when 1 => Long_Long_Integer( X.Data(1) * (if X.Negative then -1 else 1) ),
+            when 2 => Long_Long_Integer((X.Data(1) & X.Data(2)) * (if X.Negative then -1 else 1)),
             when others => raise Program_Error with "Unreachable"
            )
       ) with SPARK_Mode => Off;
@@ -125,7 +125,7 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
 		    Return (if Past_Bounds then Zero
 	                    else (Length   => Significant_Portion'Length,
 			          Data     => Significant_Portion,
-			          Negetive => Neg
+			          Negative => Neg
                                  ) -- Result aggrigate
 	                   );
 		End Generate_Result;
@@ -323,12 +323,12 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
       ( Normalize (X.Data, Neg => False) );
 
     function Big_Add  (X, Y : Big_Number) return Big_Number is
-      ( Add (X.Data, Y.Data, X.Negetive, Y.Negetive) );
+      ( Add (X.Data, Y.Data, X.Negative, Y.Negative) );
 
 
     function Big_Sub (X, Y : Big_Number) return Big_Number is
       (if Y.Length = 0 then X
-       else Add(X.Data,Y.Data,X.Negetive, not Y.Negetive)
+       else Add(X.Data,Y.Data,X.Negative, not Y.Negative)
       );
 
     function Big_Mul (X, Y : Big_Number) return Big_Number is
@@ -365,14 +365,14 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
 	end loop;
 
 	--  Return result
-	return Normalize (Result, X.Negetive xor Y.Negetive);
+	return Normalize (Result, X.Negative xor Y.Negative);
     end Big_Mul;
 
     function Big_Div  (X, Y : Big_Number) return Big_Number is
 	Temp : Quotient_Remainder renames Div_Rem (X, Y, Discard_Remainder => True);
    begin
 	return (Data     => Temp.Quotient.Data,
-	        Negetive => Temp.Quotient_Length > 0 and then (X.Negetive xor Y.Negetive),
+	        Negative => Temp.Quotient_Length > 0 and then (X.Negative xor Y.Negative),
 	        Length   => Temp.Quotient_Length
 	       );
    end Big_Div;
@@ -408,7 +408,7 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
     begin
 	--  Error if right operand negative
 
-	if Y.Negetive then
+	if Y.Negative then
 	    raise Constraint_Error with "exponentiation to negative power";
 
 	--  X ** 0 is always 1 (including 0 ** 0, so do this test first)
@@ -423,7 +423,7 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
 	--  (-1) ** Y = +/-1 depending on whether Y is even or odd
 	elsif X.Length = 1 and then X.Data (1) = 1 then
 	    return Normalize
-	      (X.Data, Neg => X.Negetive and then ((Y.Data(Y.Length) mod 2) = 1));
+	      (X.Data, Neg => X.Negative and then ((Y.Data(Y.Length) mod 2) = 1));
 
 	--  If the absolute value of the base is greater than 1, then the
 	--  exponent must not be bigger than one word, otherwise the result
@@ -437,7 +437,7 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
 		D : constant Digit :=
 		  Digit(Interfaces.Shift_Left (Interfaces.Unsigned_32'(1), Natural (Y.Data (1))));
 	    begin
-		return Normalize ((1 => D), X.Negetive);
+		return Normalize ((1 => D), X.Negative);
 	    end;
 
 	--  Remaining cases have right operand of one word
@@ -450,7 +450,7 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
 	Temp : Quotient_Remainder renames Div_Rem (X, Y, Discard_Quotient => True);
     begin
 	return (Data     => Temp.Remainder.Data,
-	        Negetive => Temp.Remainder_Length > 0 and then X.Negetive,
+	        Negative => Temp.Remainder_Length > 0 and then X.Negative,
 	        Length   => Temp.Remainder_Length
 	       );
     end Big_Rem;
@@ -459,7 +459,7 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
 	Q, R : Big_Number:= Zero;
     begin
 	--  If signs are same, result is same as Rem
-	if X.Negetive = Y.Negetive then
+	if X.Negative = Y.Negative then
 	    return Big_Rem (X, Y);
 	    --  Case where Mod is different
 	else
@@ -477,7 +477,7 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
 		    declare
 			T1 : Big_Number := Big_Sub (Y, R);
 		    begin
-			T1.Negetive := Y.Negetive;
+			T1.Negative := Y.Negative;
 			return T1;
 		    end;
 		end if;
@@ -489,24 +489,24 @@ Package Body ASN_1.Internals.Numerics with Pure, SPARK_Mode => On is
     function Big_Neg (X : Big_Number) return Big_Number is
     begin
 	Return
-	  (Length => X.Length, Data => X.Data, Negetive => not X.Negetive);
+	  (Length => X.Length, Data => X.Data, Negative => not X.Negative);
     end Big_Neg;
 
 
     function Big_EQ (X, Y : Big_Number) return Boolean is
-      ( Compare (X.Data, Y.Data, X.Negetive, Y.Negetive) = Equal );
+      ( Compare (X.Data, Y.Data, X.Negative, Y.Negative) = Equal );
 
     function Big_GE (X, Y : Big_Number) return Boolean is
-      ( Compare (X.Data, Y.Data, X.Negetive, Y.Negetive) /= Less_Than );
+      ( Compare (X.Data, Y.Data, X.Negative, Y.Negative) /= Less_Than );
 
     function Big_GT (X, Y : Big_Number) return Boolean is
-      ( Compare (X.Data, Y.Data, X.Negetive, Y.Negetive) = Greater_Than );
+      ( Compare (X.Data, Y.Data, X.Negative, Y.Negative) = Greater_Than );
 
     function Big_LE (X, Y : Big_Number) return Boolean is
-      ( Compare (X.Data, Y.Data, X.Negetive, Y.Negetive) /= Greater_Than );
+      ( Compare (X.Data, Y.Data, X.Negative, Y.Negative) /= Greater_Than );
 
     function Big_LT (X, Y : Big_Number) return Boolean is
-      ( Compare (X.Data, Y.Data, X.Negetive, Y.Negetive) = Less_Than );
+      ( Compare (X.Data, Y.Data, X.Negative, Y.Negative) = Less_Than );
 
 
 

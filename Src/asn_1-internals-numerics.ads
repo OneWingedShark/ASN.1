@@ -40,13 +40,13 @@ Private
 
 
     Type Big_Number( Length : Length_Range ) is record
-	Negetive : Boolean;
+	Negative : Boolean;
 	Data     : Digit_Vector(1..Length);
     end record;
 
     for Big_Number use record
       Length   at 0 range 0 .. 23;
-      Negetive at 3 range 0 .. 7;
+      Negative at 3 range 0 .. 7;
    end record;
 
     --------------------------
@@ -54,9 +54,9 @@ Private
     --------------------------
 
     Zero   : Constant Big_Number :=
-      (Length => 0, Negetive => False, Data => (others => 0));
+      (Length => 0, Negative => False, Data => (others => 0));
     One    : Constant Big_Number :=
-      (Length => 1, Negetive => False, Data => (others => 1));
+      (Length => 1, Negative => False, Data => (others => 1));
 
     One_Data  : Digit_Vector Renames One.Data;
     Zero_Data : Digit_Vector Renames Zero.Data;
