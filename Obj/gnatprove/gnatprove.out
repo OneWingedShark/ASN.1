@@ -1,0 +1,108 @@
+Summary of SPARK analysis
+=========================
+
+------------------------------------------------------------------------------------------------------
+SPARK Analysis results        Total        Flow   Interval   CodePeer   Provers   Justified   Unproved
+------------------------------------------------------------------------------------------------------
+Data Dependencies                 .           .          .          .         .           .          .
+Flow Dependencies                 .           .          .          .         .           .          .
+Initialization                   42          39          .          .         .           .          3
+Non-Aliasing                      .           .          .          .         .           .          .
+Run-time Checks                   .           .          .          .         .           .          .
+Assertions                        .           .          .          .         .           .          .
+Functional Contracts              .           .          .          .         .           .          .
+LSP Verification                  .           .          .          .         .           .          .
+------------------------------------------------------------------------------------------------------
+Total                            42    39 (93%)          .          .         .           .     3 (7%)
+
+
+Analyzed 8 units
+in unit asn_1, 1 subprograms and packages out of 1 analyzed
+  ASN_1 at asn_1.ads:4 flow analyzed (0 errors and 0 warnings)
+in unit asn_1-enumerations, 1 subprograms and packages out of 1 analyzed
+  ASN_1.Enumerations at asn_1-enumerations.ads:4 flow analyzed (0 errors and 0 warnings)
+in unit asn_1-enumerations-tags, 1 subprograms and packages out of 1 analyzed
+  ASN_1.Enumerations.Tags at asn_1-enumerations-tags.ads:4 flow analyzed (0 errors and 0 warnings)
+in unit asn_1-internals, 1 subprograms and packages out of 1 analyzed
+  ASN_1.Internals at asn_1-internals.ads:5 flow analyzed (0 errors and 0 warnings)
+in unit asn_1-internals-numerics, 52 subprograms and packages out of 56 analyzed
+  ASN_1.Internals.Numerics at asn_1-internals-numerics.ads:7 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Add at asn_1-internals-numerics.adb:43 flow analyzed (0 errors and 3 warnings)
+  ASN_1.Internals.Numerics.Add.B_17.TsumSPredicate at asn_1-internals-numerics.adb:478 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Add.B_19.B_20.TdiffSPredicate at asn_1-internals-numerics.adb:520 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Add.S96bPredicate at asn_1-internals-numerics.adb:458 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Add.S99bPredicate at asn_1-internals-numerics.adb:458 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Abs at asn_1-internals-numerics.adb:543 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Add at asn_1-internals-numerics.adb:546 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Div at asn_1-internals-numerics.adb:592 flow analyzed (0 errors and 1 warnings)
+  ASN_1.Internals.Numerics.Big_EQ at asn_1-internals-numerics.adb:712 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Exp at asn_1-internals-numerics.adb:600 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Exp.Oexpon at asn_1-internals-numerics.adb:602 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Exp.Oexpon.S136bPredicate at asn_1-internals-numerics.adb:614 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Exp.S143bPredicate at asn_1-internals-numerics.adb:646 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_GE at asn_1-internals-numerics.adb:715 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_GT at asn_1-internals-numerics.adb:718 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_LE at asn_1-internals-numerics.adb:721 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_LT at asn_1-internals-numerics.adb:724 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Mod at asn_1-internals-numerics.adb:677 flow analyzed (0 errors and 1 warnings)
+  ASN_1.Internals.Numerics.Big_Mul at asn_1-internals-numerics.adb:555 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Mul.TresultSPredicate at asn_1-internals-numerics.adb:558 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Neg at asn_1-internals-numerics.adb:705 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Neg.S168bPredicate at asn_1-internals-numerics.adb:708 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Big_Rem at asn_1-internals-numerics.adb:669 flow analyzed (0 errors and 1 warnings)
+  ASN_1.Internals.Numerics.Big_Sub at asn_1-internals-numerics.adb:550 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Compare at asn_1-internals-numerics.adb:32 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Compare.S24bPredicate at asn_1-internals-numerics.adb:128 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Compare.S27bPredicate at asn_1-internals-numerics.adb:128 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Convert at asn_1-internals-numerics.ads:64 skipped
+  ASN_1.Internals.Numerics.Convert at asn_1-internals-numerics.ads:65 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Digit_VectorPredicate at asn_1-internals-numerics.ads:38 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Digit_VectorPredicate.S6sPredicate at asn_1-internals-numerics.ads:38 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Div_Rem at asn_1-internals-numerics.adb:36 skipped
+  ASN_1.Internals.Numerics.From_Big_Number at asn_1-internals-numerics.adb:79 skipped
+  ASN_1.Internals.Numerics.Is_In_LLI_Range at asn_1-internals-numerics.adb:58 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.LSD at asn_1-internals-numerics.adb:20 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.MSD at asn_1-internals-numerics.adb:19 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Normalize at asn_1-internals-numerics.adb:28 skipped
+  ASN_1.Internals.Numerics.Oabs at asn_1-internals-numerics.ads:19 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Oadd at asn_1-internals-numerics.ads:11 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Oconcat at asn_1-internals-numerics.adb:24 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Odivide at asn_1-internals-numerics.ads:14 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Oeq at asn_1-internals-numerics.ads:21 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Oexpon at asn_1-internals-numerics.ads:15 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Oge at asn_1-internals-numerics.ads:22 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Ogt at asn_1-internals-numerics.ads:24 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Ole at asn_1-internals-numerics.ads:23 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Olt at asn_1-internals-numerics.ads:25 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Omod at asn_1-internals-numerics.ads:16 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Omultiply at asn_1-internals-numerics.ads:13 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Orem at asn_1-internals-numerics.ads:17 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Osubtract at asn_1-internals-numerics.ads:12 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Osubtract at asn_1-internals-numerics.ads:18 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.S18sPredicate at asn_1-internals-numerics.ads:61 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.S21sPredicate at asn_1-internals-numerics.ads:62 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.To_Big_Number at asn_1-internals-numerics.adb:66 flow analyzed (0 errors and 0 warnings)
+in unit asn_1-internals-numerics-definite, 1 subprograms and packages out of 17 analyzed
+  ASN_1.Internals.Numerics.Definite at asn_1-internals-numerics-definite.ads:7 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Internals.Numerics.Definite.Convert at asn_1-internals-numerics-definite.ads:28 skipped
+  ASN_1.Internals.Numerics.Definite.Convert at asn_1-internals-numerics-definite.ads:29 skipped
+  ASN_1.Internals.Numerics.Definite.Oabs at asn_1-internals-numerics-definite.ads:20 skipped
+  ASN_1.Internals.Numerics.Definite.Oadd at asn_1-internals-numerics-definite.ads:12 skipped
+  ASN_1.Internals.Numerics.Definite.Odivide at asn_1-internals-numerics-definite.ads:15 skipped
+  ASN_1.Internals.Numerics.Definite.Oeq at asn_1-internals-numerics-definite.ads:22 skipped
+  ASN_1.Internals.Numerics.Definite.Oexpon at asn_1-internals-numerics-definite.ads:16 skipped
+  ASN_1.Internals.Numerics.Definite.Oge at asn_1-internals-numerics-definite.ads:23 skipped
+  ASN_1.Internals.Numerics.Definite.Ogt at asn_1-internals-numerics-definite.ads:25 skipped
+  ASN_1.Internals.Numerics.Definite.Ole at asn_1-internals-numerics-definite.ads:24 skipped
+  ASN_1.Internals.Numerics.Definite.Olt at asn_1-internals-numerics-definite.ads:26 skipped
+  ASN_1.Internals.Numerics.Definite.Omod at asn_1-internals-numerics-definite.ads:17 skipped
+  ASN_1.Internals.Numerics.Definite.Omultiply at asn_1-internals-numerics-definite.ads:14 skipped
+  ASN_1.Internals.Numerics.Definite.Orem at asn_1-internals-numerics-definite.ads:18 skipped
+  ASN_1.Internals.Numerics.Definite.Osubtract at asn_1-internals-numerics-definite.ads:13 skipped
+  ASN_1.Internals.Numerics.Definite.Osubtract at asn_1-internals-numerics-definite.ads:19 skipped
+in unit asn_1-types, 1 subprograms and packages out of 1 analyzed
+  ASN_1.Types at asn_1-types.ads:7 flow analyzed (0 errors and 0 warnings)
+in unit asn_1-types-oid, 3 subprograms and packages out of 3 analyzed
+  ASN_1.Types.OID at asn_1-types-oid.ads:10 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Types.OID.Valid at asn_1-types-oid.ads:20 flow analyzed (0 errors and 0 warnings)
+  ASN_1.Types.OID.Valid at asn_1-types-oid.ads:21 flow analyzed (0 errors and 0 warnings)

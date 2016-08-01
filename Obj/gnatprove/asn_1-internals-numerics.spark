@@ -1,0 +1,2688 @@
+{
+  "spark": [
+    {
+      "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate.S6sPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 38
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 38
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.S18sPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 61
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.S21sPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 62
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.MSD",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 19
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.LSD",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 20
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Oconcat",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 24
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Is_In_LLI_Range",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 58
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.To_Big_Number",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 66
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.From_Big_Number",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 79
+        }
+      ],
+      "spark": "no"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Normalize",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 28
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Compare.S27bPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 128
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Compare.S24bPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 128
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Compare",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 32
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Div_Rem",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 36
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Add.S99bPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 458
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Add.S96bPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 458
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Add.B_17.TsumSPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 478
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Add.B_19.B_20.TdiffSPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 520
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Add",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 43
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Abs",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 543
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Add",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 546
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Sub",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 550
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Mul.TresultSPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 558
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Mul",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 555
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Div",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 592
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Exp.Oexpon.S136bPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 614
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Exp.Oexpon",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 602
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Exp.S143bPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 646
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Exp",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 600
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Rem",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 669
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Mod",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 677
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Neg.S168bPredicate",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 708
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_Neg",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 705
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_EQ",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 712
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_GE",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 715
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_GT",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 718
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_LE",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 721
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Big_LT",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.adb",
+          "line": 724
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Oadd",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 11
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Osubtract",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 12
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Omultiply",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 13
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Odivide",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 14
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Oexpon",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 15
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Omod",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 16
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Orem",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 17
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Osubtract",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 18
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Oabs",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 19
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Oeq",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 21
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Oge",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 22
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Ole",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 23
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Ogt",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 24
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Olt",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 25
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Convert",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 65
+        }
+      ],
+      "spark": "all"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Convert",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 64
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics.ads",
+          "line": 7
+        }
+      ],
+      "spark": "all"
+    }
+  ],
+  "flow": [
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 672,
+      "col": 24,
+      "rule": "INEFFECTIVE",
+      "severity": "warning",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Rem",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 669
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__664.trace",
+      "msg_id": 0,
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 674,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Rem",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 669
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__673.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 674,
+      "col": 16,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Rem",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 669
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__673.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 595,
+      "col": 25,
+      "rule": "INEFFECTIVE",
+      "severity": "warning",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Div",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 592
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__980.trace",
+      "msg_id": 1,
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 597,
+      "col": 14,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Div",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 592
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__987.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 597,
+      "col": 14,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Div",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 592
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__987.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 570,
+      "col": 90,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 570,
+      "col": 98,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 571,
+      "col": 28,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 571,
+      "col": 28,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 571,
+      "col": 36,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 572,
+      "col": 22,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 577,
+      "col": 26,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 578,
+      "col": 44,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 578,
+      "col": 52,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 578,
+      "col": 26,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 579,
+      "col": 32,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 579,
+      "col": 32,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 579,
+      "col": 40,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 580,
+      "col": 26,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 576,
+      "col": 39,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 576,
+      "col": 23,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 584,
+      "col": 32,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 589,
+      "col": 27,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mul",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 555
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1300.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 137,
+      "col": 13,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Compare",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 32
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1385.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 484,
+      "col": 31,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 487,
+      "col": 35,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 490,
+      "col": 41,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 490,
+      "col": 33,
+      "rule": "UNINITIALIZED",
+      "severity": "medium",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "msg_id": 2,
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 491,
+      "col": 31,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 494,
+      "col": 39,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 494,
+      "col": 29,
+      "rule": "UNINITIALIZED",
+      "severity": "medium",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "msg_id": 3,
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 495,
+      "col": 39,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 526,
+      "col": 35,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 529,
+      "col": 39,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 536,
+      "col": 43,
+      "rule": "UNINITIALIZED",
+      "severity": "medium",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "msg_id": 4,
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 532,
+      "col": 46,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 533,
+      "col": 39,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Add",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 43
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1563.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 686,
+      "col": 28,
+      "rule": "INEFFECTIVE",
+      "severity": "warning",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mod",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 677
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1690.trace",
+      "msg_id": 5,
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 690,
+      "col": 24,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mod",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 677
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1712.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 690,
+      "col": 24,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mod",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 677
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1712.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 695,
+      "col": 52,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mod",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 677
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1712.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 695,
+      "col": 52,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mod",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 677
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1712.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 698,
+      "col": 28,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mod",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 677
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1712.trace",
+      "how_proved": "flow"
+    },
+    {
+      "file": "asn_1-internals-numerics.adb",
+      "line": 698,
+      "col": 28,
+      "rule": "UNINITIALIZED",
+      "severity": "info",
+      "entity": {
+        "name": "ASN_1.Internals.Numerics.Big_Mod",
+        "sloc": [
+          {
+            "file": "asn_1-internals-numerics.adb",
+            "line": 677
+          }
+        ]
+      },
+      "tracefile": "asn_1-internals-numerics__flow__1712.trace",
+      "how_proved": "flow"
+    }
+  ],
+  "assumptions": [
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Exp.Oexpon.S136bPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 614
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Oconcat",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 24
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Is_In_LLI_Range",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 58
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Compare",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 32
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_GT",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 718
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.To_Big_Number",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 66
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Add.B_19.B_20.TdiffSPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 520
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Neg.S168bPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 708
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.To_Big_Number",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 66
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Convert",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 65
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Abs",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 543
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Oabs",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 19
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 38
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Compare",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 32
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_LE",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 721
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Normalize",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 28
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.LSD",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 20
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Mul",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 555
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Exp.Oexpon",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 602
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Normalize",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 28
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "Interfaces.Shift_Left",
+            "sloc": [
+              {
+                "file": "interfac.ads",
+                "line": 121
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Exp",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 600
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Neg",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 705
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Normalize",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 28
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Abs",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 543
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Compare",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 32
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Add",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 43
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Add",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 546
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Add",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 546
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Oadd",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 11
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Compare",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 32
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_LT",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 724
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Sub",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 550
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Osubtract",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 12
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.S21sPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 62
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Compare",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 32
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_EQ",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 712
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Oconcat",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 24
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Add",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 43
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Sub",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 550
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Mul",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 555
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Omultiply",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 13
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Div",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 592
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Odivide",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 14
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_EQ",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 712
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Oeq",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 21
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Exp",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 600
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Oexpon",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 15
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_GE",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 715
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Oge",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 22
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Mod",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 677
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Omod",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 16
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_LE",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 721
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Ole",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 23
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Rem",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 669
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Orem",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 17
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Mul.TresultSPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 558
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Add.S96bPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 458
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_GT",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 718
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Ogt",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 24
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Add.S99bPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 458
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.S18sPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 61
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate.S6sPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 38
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.LSD",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 20
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Neg",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 705
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Osubtract",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 18
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_LT",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 724
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Olt",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.ads",
+              "line": 25
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Compare",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 32
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_GE",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 715
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Compare.S24bPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 128
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Compare.S27bPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 128
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Exp.S143bPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 646
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.MSD",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 19
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Exp.Oexpon",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 602
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Big_Mul",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 555
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Normalize",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.adb",
+                "line": 28
+              }
+            ]
+          }
+        },
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Omultiply",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 13
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Big_Exp.Oexpon",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 602
+            }
+          ]
+        }
+      }
+    },
+    {
+      "assumptions": [
+        {
+          "predicate": "CLAIM_EFFECTS",
+          "arg": {
+            "name": "ASN_1.Internals.Numerics.Digit_VectorPredicate",
+            "sloc": [
+              {
+                "file": "asn_1-internals-numerics.ads",
+                "line": 38
+              }
+            ]
+          }
+        }
+      ],
+      "claim": {
+        "predicate": "CLAIM_EFFECTS",
+        "arg": {
+          "name": "ASN_1.Internals.Numerics.Add.B_17.TsumSPredicate",
+          "sloc": [
+            {
+              "file": "asn_1-internals-numerics.adb",
+              "line": 478
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

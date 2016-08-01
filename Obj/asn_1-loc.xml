@@ -1,0 +1,1429 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 47" line=" 137" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 654" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 85" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 93" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 686" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 455" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 456" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 37" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 162" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 173" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 179" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 157" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 358" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 206" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 23" line=" 239" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 241" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 206" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 253" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 252" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 256" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 283" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 256" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 290" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 749" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 309" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 57" line=" 385" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 206" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 187" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 908" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 51" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 196" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 11" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 206" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 187" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 206" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 5" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 158" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 108" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 1073" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 1096" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 77" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 211" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 233" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 66" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-secsta.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 42" >
+      <vfs_project />
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 69" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 76" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 108" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 1073" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 76" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 69" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 73" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 54" line=" 69" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 76" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 67" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 75" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 184" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 89" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 90" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 90" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 90" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 90" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 89" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 89" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 61" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 60" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 65" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 456" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 36" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 67" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 121" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 474" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 479" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 494" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 484" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 487" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 508" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 521" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 65" line=" 515" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 44" line=" 529" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 41" line=" 544" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 544" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 28" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 83" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 636" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 84" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 545" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 588" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 558" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 85" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 312" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 596" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 593" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 595" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 36" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 150" >
+      <vfs_project />
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 7" line=" 595" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 36" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 39" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 152" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 153" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 171" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 153" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 152" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 28" line=" 153" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 171" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 159" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 152" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 150" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 36" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 86" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 324" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 626" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 602" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 622" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 626" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 626" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 621" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 623" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 665" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 631" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 68" line=" 646" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 644" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 646" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 644" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 70" line=" 646" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 16" line=" 651" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 660" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 658" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 59" line=" 663" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 658" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 25" line=" 663" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 658" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 31" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 72" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\system.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 659" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 48" line=" 658" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 660" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 87" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 506" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 678" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 677" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 697" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 682" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 36" line=" 695" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 682" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 698" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 682" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 88" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 624" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 670" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 673" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 710" >
+      <vfs_project />
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 736" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 710" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 543" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 737" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 8" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 36" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 705" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 95" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 442" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 715" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 60" line=" 713" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 56" line=" 716" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 715" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 96" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 587" >
+      <vfs_project />
+      <vfs_file>C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-bignum.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 76" line=" 743" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 740" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 8" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 740" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 22" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 715" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 8" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 88" line=" 746" >
+      <vfs_project>C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file>C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-internals-numerics.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_file>
+    <file_marker column=" 65" line=" 39">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\test.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 8">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\some_type_def.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\some_type_def.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 5">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\constant_test.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 5">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\constant_test-generic_signed.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 5">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\constant_test.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 79" line=" 39">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\test.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 23">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\test.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\constant_test.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\constant_test-integers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\constant_test-generic_signed.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 7">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\constant_test-integers.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file  />
+    </file_marker>
+    <file_marker column=" 1" line=" 15">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 21">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 19" line=" 8">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 9">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 8">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 8">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 75" line=" 19">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 2">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_type.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 4">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 8">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 7">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 44">
+      <vfs_project  />
+      <vfs_file >C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\a-coinho.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\a-coinho.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 59" line=" 7">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\internal_holder.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\markov.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 41">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 189">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 45">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 38">
+      <vfs_project  />
+      <vfs_file >C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\a-coinho.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project  />
+      <vfs_file >C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\a-coinho.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 39">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 554">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 47">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 223">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 512">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 45">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 88" line=" 44">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 45">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 512">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 47">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 46">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 46">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 46">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 46">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 46">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 10" line=" 47">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 13" line=" 470">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 37">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 393">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 72" line=" 42">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 106">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 42" line=" 53">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 188">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 188">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 53">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 46">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 51">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 188">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 53">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 62">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 70">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 69">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 36">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 39">
+      <vfs_project  />
+      <vfs_file >C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-atacco.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 45">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 42">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 44">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 41">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 64" line=" 43">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 69">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 68">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 69">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 96">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 69">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 96">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 67">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 176">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 34" line=" 67">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 64">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 65">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 56" line=" 66">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 96">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 69">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 96">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 55" line=" 65">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 96">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 69" line=" 171">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 96">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 104">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 43">
+      <vfs_project  />
+      <vfs_file >C:\Programming\GNAT\2016\lib\gcc\i686-pc-mingw32\4.9.4\adainclude\s-chepoo.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 104">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 104">
+      <vfs_project  />
+      <vfs_file >C:\Programming\Projects\Scratch\src\incomplete_indefinite_holders.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 4">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 4">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 32" line=" 4">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 93">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 93">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 52">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 53">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 53">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 53">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 51">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 53">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 89">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 73">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 28">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 5" line=" 46">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 49">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 6">
+      <vfs_project >C:\Programming\Projects\Experimental\ASN.1\asn_1.gpr</vfs_project>
+      <vfs_file >C:\Programming\Projects\Experimental\ASN.1\Src\asn_1-enumerations-tags.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

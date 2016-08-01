@@ -1,0 +1,20 @@
+X.680: Information technology – Abstract Syntax Notation One (ASN.1): Specification of basic notation
+
+X.681: Information technology – Abstract Syntax Notation One (ASN.1): Information object specification
+
+X.682: Information technology – Abstract Syntax Notation One (ASN.1): Constraint specification
+
+X.683: Information technology – Abstract Syntax Notation One (ASN.1): Parameterization of ASN.1 specifications
+X.690: Information technology – ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding Rules (DER)
+
+X.691: Information technology – ASN.1 encoding rules: Specification of Packed Encoding Rules (PER)
+
+X.692: Information technology – ASN.1 encoding rules: Specification of Encoding Control Notation (ECN)
+
+X.693: Information technology – ASN.1 encoding rules: XML Encoding Rules (XER)
+
+X.694: Information technology – ASN.1 encoding rules: Mapping W3C XML schema definitions into ASN.1
+
+X.695: Information technology – ASN.1 encoding rules: Registration and application of PER encoding instructions
+
+X.696: Information technology – Specification of Octet Encoding Rules (OER)

@@ -1,0 +1,18 @@
+{
+  "spark": [
+    {
+      "name": "ASN_1.Enumerations.Tags",
+      "sloc": [
+        {
+          "file": "asn_1-enumerations-tags.ads",
+          "line": 4
+        }
+      ],
+      "spark": "all"
+    }
+  ],
+  "flow": [
+  ],
+  "assumptions": [
+  ]
+}

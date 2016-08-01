@@ -1,0 +1,178 @@
+{
+  "spark": [
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Oadd",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 12
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Osubtract",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 13
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Omultiply",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 14
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Odivide",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 15
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Oexpon",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 16
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Omod",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 17
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Orem",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 18
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Osubtract",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 19
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Oabs",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 20
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Oeq",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 22
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Oge",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 23
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Ole",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 24
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Ogt",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 25
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Olt",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 26
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Convert",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 28
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite.Convert",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 29
+        }
+      ],
+      "spark": "spec"
+    },
+    {
+      "name": "ASN_1.Internals.Numerics.Definite",
+      "sloc": [
+        {
+          "file": "asn_1-internals-numerics-definite.ads",
+          "line": 7
+        }
+      ],
+      "spark": "all"
+    }
+  ],
+  "flow": [
+  ],
+  "assumptions": [
+  ]
+}

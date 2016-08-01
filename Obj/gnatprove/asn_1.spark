@@ -1,0 +1,18 @@
+{
+  "spark": [
+    {
+      "name": "ASN_1",
+      "sloc": [
+        {
+          "file": "asn_1.ads",
+          "line": 4
+        }
+      ],
+      "spark": "all"
+    }
+  ],
+  "flow": [
+  ],
+  "assumptions": [
+  ]
+}

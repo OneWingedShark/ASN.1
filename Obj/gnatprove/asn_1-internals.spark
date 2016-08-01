@@ -1,0 +1,18 @@
+{
+  "spark": [
+    {
+      "name": "ASN_1.Internals",
+      "sloc": [
+        {
+          "file": "asn_1-internals.ads",
+          "line": 5
+        }
+      ],
+      "spark": "all"
+    }
+  ],
+  "flow": [
+  ],
+  "assumptions": [
+  ]
+}

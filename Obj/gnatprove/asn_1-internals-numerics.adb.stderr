@@ -1,0 +1,8 @@
+asn_1-internals-numerics.adb:128:05: info: no contextual analysis of "Compare" (multiple returns)
+asn_1-internals-numerics.adb:458:05: info: no contextual analysis of "Add" (multiple returns)
+asn_1-internals-numerics.adb:490:33: medium: "Sum" might not be initialized[#2]
+asn_1-internals-numerics.adb:494:29: medium: "Sum" might not be initialized[#3]
+asn_1-internals-numerics.adb:536:43: medium: "Diff" might not be initialized[#4]
+asn_1-internals-numerics.adb:595:25: warning: unused assignment to "R"[#1]
+asn_1-internals-numerics.adb:672:24: warning: unused assignment to "Q"[#0]
+asn_1-internals-numerics.adb:686:28: warning: unused assignment to "Q"[#5]
